@@ -13,11 +13,12 @@
 ## Table of Contents
 
 - [README.md](#)
-- [Referenced Course Projects and Assignments](#referenced-course-projects-and-assignments)
+- [Referenced Course Projects](#referenced-course-projects)
   - [IST 652: Scripting for Data Analysis](#ist-652-scripting-for-data-analysis)
-  - [IST 707: Data Analytics](#ist-707-data-analytics)
+  - [IST 664: Natural Language Processing](#ist-664-natural-language-processing)
   - [IST 687: Introduction to Data Science](#ist-687-introduction-to-data-science)
-  - [IST 659: Database Administration](#ist-659-database-administration)
+  - [IST 691: Deep Learning in Practice](#ist-691-deep-learning-in-practice)
+  - [IST 707: Applied Machine Learning](#ist-707-Applied-Machine-Learning)
 - [Final Portfolio Paper](#paper) 
 - [Portfolio Presentation](#portfolio-presentation)
 - [Video Presentation](#video)
