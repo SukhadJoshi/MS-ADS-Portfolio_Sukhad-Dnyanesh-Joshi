@@ -26,13 +26,13 @@
 
 ## Portfolio Overview
 
-This portfolio serves as a compilation of selected coursework and projects demonstrating applied skills in data extraction, cleaning, analysis, visualization, and reporting. 
+This portfolio serves as a compilation of selected coursework and projects demonstrating applied skills in data extraction, cleaning, analysis, modeling, visualization, and reporting. 
 
 ---
 
 ## About
 
-Portfolio Milestone submission for the Master of Science in Applied Data Science program at Syracuse University.
+Portfolio Milestone submission for the Master of Science in Applied Data Science program at Syracuse University by Sukhad Dnyanesh Joshi.
 
 ---
 
